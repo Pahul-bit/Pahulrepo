@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1695208559,,"wq"
+|2,0,1695208763,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,22 @@
 # Registers:
 
 # File marks:
-'0  1  2  ~/a.py
-|4,48,1,2,1695208559,"~/a.py"
-'1  1  23  ~/pahul/pahulpython.py
-|4,49,1,23,1695207809,"~/pahul/pahulpython.py"
+'0  1  8  ~/a.py
+|4,48,1,8,1695208763,"~/a.py"
+'1  1  2  ~/a.py
+|4,49,1,2,1695208559,"~/a.py"
+'2  1  23  ~/pahul/pahulpython.py
+|4,50,1,23,1695207809,"~/pahul/pahulpython.py"
 
 # Jumplist (newest first):
+-'  1  8  ~/a.py
+|4,39,1,8,1695208763,"~/a.py"
 -'  1  2  ~/a.py
 |4,39,1,2,1695208559,"~/a.py"
+-'  1  23  ~/pahul/pahulpython.py
+|4,39,1,23,1695207809,"~/pahul/pahulpython.py"
+-'  1  23  ~/pahul/pahulpython.py
+|4,39,1,23,1695207809,"~/pahul/pahulpython.py"
 -'  1  23  ~/pahul/pahulpython.py
 |4,39,1,23,1695207809,"~/pahul/pahulpython.py"
 -'  1  23  ~/pahul/pahulpython.py
@@ -41,11 +49,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/a.py
-	*	1695208556	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
+	*	1695208760	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
 
 > ~/pahul/pahulpython.py
 	*	1695207806	0
